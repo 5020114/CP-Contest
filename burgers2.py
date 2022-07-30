@@ -1,8 +1,8 @@
 #BURGERS2
-# t=int(input())
+t=int(input())
 for i in range(t):
-    
-  :
+    x,y,n,r=map(int,input().split())
+    if x==y:
         print("-1")
     else:
         a=(r-(n*y))/x-y
