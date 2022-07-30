@@ -2,7 +2,7 @@
 t=int(input())
 for i in range(t):
     
-    if x==y:
+  :
         print("-1")
     else:
         a=(r-(n*y))/x-y
