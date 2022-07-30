@@ -10,6 +10,6 @@ for i in range(t):
             a=(r-(n*x))/y-n
         b=n-a
         if(a<b):
-            print(a,"\t",b)
+            print(a,b)
         else:
             print(b,"\t",a)
