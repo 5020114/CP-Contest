@@ -1,6 +1,6 @@
 //INSURANCE
 #include<iostream>
-using namespace std;
+using namespace ;
 int main()
 {
     int t,x,y;
